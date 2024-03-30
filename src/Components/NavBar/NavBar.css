@@ -1,0 +1,29 @@
+nav{
+    background-color: black;
+    display: flex;
+    gap: 30%;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+nav h3{
+    font-size: 1.2rem;
+    color: antiquewhite;
+}
+
+#categoriesBlock{
+    display: flex;
+    gap: 60%;
+}
+
+#categoriesBlock a{
+    color: antiquewhite;
+}
+
+#categoriesBlock button{
+    border: none;
+    background: none;
+    font-size: 1.2rem;
+    color: antiquewhite;
+}

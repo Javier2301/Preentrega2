@@ -1,0 +1,39 @@
+.DescriptionBlock{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h2, p{
+    color: black;
+}
+
+p, a{
+    font-size: 1.5rem;
+}
+
+a{
+    text-decoration: none;
+}
+
+picture img{
+    width: 50%;
+    box-shadow: 0px 0px 5px black;;
+    border-radius: 20px;
+}
+
+article{
+    border: none;
+    border-radius: 20px;
+    width: 50%;
+    box-shadow: 0px 0px 5px black;
+    background-color: rgb(244, 244, 244);
+    margin-bottom: 50px;
+    padding: 25px;
+}
+
+.MainProductContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

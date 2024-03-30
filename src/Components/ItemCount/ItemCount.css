@@ -1,0 +1,35 @@
+.controlBlock{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3%;
+}
+
+.controlBlock button{
+    border: none;
+    background-color: black;
+    color: antiquewhite;
+    border-radius: 15%;
+    padding: 6px 15px;
+    font-size: 1.3rem;
+    cursor: pointer;
+}
+
+.controlBlock h4{
+    color: black;
+}
+
+.addToCart{
+    color: black;
+    border: 1px solid black;
+    border-radius: 15px;
+    padding: 8px 15px;
+    font-size: 1rem;
+    background: none;
+    cursor: pointer;
+}
+
+.addToCart:hover{
+    background-color: black;
+    color: antiquewhite;
+}
